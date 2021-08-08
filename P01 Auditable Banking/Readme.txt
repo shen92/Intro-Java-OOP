@@ -1,0 +1,1 @@
+Through this assignment you will implement a simple bank accounting system.  One complication within this system is that banking transactions (deposits and withdraws) can be represented internally in one of three different ways.  Comparing and contrasting different data representations and different data structures will be a recurring theme throughout CS300.

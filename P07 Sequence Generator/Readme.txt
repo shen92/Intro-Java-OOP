@@ -1,0 +1,1 @@
+This assignment is all about creating number generators. A generator is an object or a function that returns the next value in a numerical progression. This assignment presents an opportunity to practice to create a collection of numbers using iterators, and classes that implement the java.lang.Iterable interface. 

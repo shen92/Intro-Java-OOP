@@ -1,0 +1,1 @@
+In this assignment, you will need to familiarize yourself with their code so that you can enhance it with exception handling mechanisms.  Your solution for this assignment will not constitute a complete application with driver, but it will instead be an enhanced version of the provided code, along with several tests to demonstrate the correctness of this solution.

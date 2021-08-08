@@ -1,0 +1,1 @@
+In this assignment, you will create an ¡°access control¡± program. We use a program much like this one (although more complex) to maintain access to the shared computers in the instructional lab. An access control program maintains a record of valid users and their properties. In order to gain access to the machine, a user must accurately report their matching name and password.
